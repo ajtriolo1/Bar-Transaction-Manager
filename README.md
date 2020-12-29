@@ -1,1 +1,1 @@
-# RetailDB
+# Bar Transaction Manager
